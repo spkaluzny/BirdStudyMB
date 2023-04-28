@@ -1,0 +1,52 @@
+---
+title: "Bird Study Workshops Report"
+author: "Stephen Kaluzny"
+date: '2022-05-08'
+output:
+  html_document:
+    theme: cerulean
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library("dplyr")
+library("ggplot2")
+```
+
+## Introduction
+
+## Data
+
+```{r combine_birdsseen, echo=FALSE}
+source(here::here("scripts", "combineBirdsSeen.R"))
+```
+
+```{r scouts_by_year}
+ScoutsByYear <- read.table(here::here("data", "scoutsByYear.txt"),
+  sep=" ", header=TRUE)
+ScoutsByYear[["Year"]] <- lubridate::year(as.Date(ScoutsByYear[["ClassDate"]]))
+sapply(ScoutsByYear, class)
+```
+
+Number of years: `r nrow(ScoutsByYear)`
+
+## Scouts
+
+```{r scouts}
+ScoutsByYear |> ggplot(aes(x=Year, y=Scouts)) +
+  geom_bar(stat="identity") +
+  ggtitle("Scouts by Year")
+```
+
+Scouts completing the merit badge.
+
+```{r completing}
+ScoutsByYear |> mutate(Finished = BoysFinished + GirlsFinished) |>
+  mutate(PercentComplete = Finished / Scouts * 100) |>
+  ggplot(aes(x=Year, y=PercentComplete)) +
+    geom_point() +
+    # geom_bar(stat="identity") +
+    ggtitle("Percent Completed by Year")
+```
+
+## Birds Seen

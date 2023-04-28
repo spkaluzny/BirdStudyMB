@@ -1,0 +1,27 @@
+Canada Goose,
+Gadwall,
+American Wigeon,
+Mallard,
+Northern Shoveler,
+Pied-billed Grebe,L
+Great Blue Heron,
+Bald Eagle,
+Killdeer,
+Glaucous-winged Gull,L
+Anna's Hummingbird,
+Northwestern Crow,
+Tree Swallow,
+Violet-green Swallow,L
+Barn Swallow,
+Marsh Wren,L
+American Robin,
+European Starling,
+Orange-crowned Warbler,L
+Common Yellowthroat,L
+Spotted Towhee,L
+Savannah Sparrow,
+Song Sparrow,
+White-crowned Sparrow,L
+Red-winged Blackbird,
+House Finch,
+American Goldfinch,

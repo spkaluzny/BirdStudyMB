@@ -1,0 +1,42 @@
+Canada Goose,
+American Wigeon,
+Gadwall,
+Mallard,
+Northern Shoveler,
+Green-winged Teal,
+Ring-necked Duck,
+Lesser Scaup,
+Bufflehead,
+Common Merganser,
+Pied-billed Grebe,
+Double-crested Cormorant,
+Great Blue Heron,
+Bald Eagle,
+Red-tailed Hawk,
+Virginia Rail,
+American Coot,
+Killdeer,L
+Glaucous-winged Gull,
+Anna's Hummingbird,
+Downy Woodpecker,L
+Northern Flicker,
+Western Scrub-Jay,L
+Northwestern Crow,
+Tree Swallow,
+Violet-green Swallow,
+Black-capped Chickadee,L
+Bushtit,
+Bewick's Wren,L
+Marsh Wren,
+Rub-crowned Kinglet,L
+American Robin,
+European Starling,
+Yellow-rumped Warbler,
+Spotted Towhee,L
+Savannah Sparrow,
+Song Sparrow,
+White-crowned Sparrow,L
+Dark-eyed Junco,L
+Red-winged Blackbird,
+Eastern Meadowlark,L
+American Goldfinch,

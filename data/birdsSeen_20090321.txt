@@ -1,0 +1,32 @@
+Pied-billed Grebe,
+Double-crested Cormorant,
+Great Blue Heron,
+Canada Goose,
+American Wigeon,
+Gadwall,
+Green-winged Teal,
+Mallard,
+Northern Shoveler,
+Lesser Scaup,
+Bufflehead,
+Hooded Merganser,
+Red-tailed Hawk,
+American Coot,
+Killdeer,
+Glaucous-winged Gull,
+Anna's Hummingbird,
+Northern Flicker,
+Tree Swallow,
+Violet-green Swallow,L
+Marsh Wren,L
+American Robin,
+Bushtit,
+Black-capped Chickadee,L
+Northwestern Crow,
+European Starling,
+Yellow-rumped Warbler,
+Song Sparrow,L
+Dark-eyed Junco,L
+Red-winged Blackbird,
+House Finch,L
+American Goldfinch,L

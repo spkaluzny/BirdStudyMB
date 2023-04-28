@@ -1,0 +1,30 @@
+Canada Goose,
+Wood Duck,
+Northern Shoveler,
+Gadwall,
+Mallard,
+Greater/Lesser Scaup,
+Bufflehead,
+Common Merganser,
+Pied-billed Grebe,
+Anna's Hummingbird,
+American Coot,
+Glaucous-winged Gull,
+Double-crested Cormorant,
+Great Blue Heron,
+Downy Woodpecker,
+Northern Flicker,L
+American Crow,
+Black-capped Chickadee,
+Tree Swallow,
+Violet-green Swallow,
+Marsh Wren,L
+Bewick's Wren,L
+American Robin,
+House Finch,L
+American Goldfinch,
+Golden-crowned Sparrow,
+Song Sparrow,
+Spotted Towhee,
+Red-winged Blackbird,
+Yellow-rumped Warbler,L

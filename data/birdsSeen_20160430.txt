@@ -1,0 +1,32 @@
+Canada Goose,
+Gadwall,
+Mallard,
+Ring-necked Duck,
+Bufflehead,
+Pied-billed Grebe,
+Double-crested Cormorant,
+Great Blue Heron,
+Osprey,
+Bald Eagle,
+Virginia Rail,L
+Glaucous-winged Gull,L
+Anna's Hummingbird,
+Northern Flicker,L
+Northwestern Crow,
+Tree Swallow,
+Violet-green Swallow,
+Barn Swallow,
+Cliff Swallow,
+Bushtit,L
+Brown Creeper,L
+Marsh Wren,
+American Robin,
+Common Yellowthroat,L
+Dark-eyed Junco,L
+White-crowned Sparrow,
+Savannah Sparrow,
+Song Sparrow,
+Spotted Towhee,L
+Red-winged Blackbird,
+House Finch,L
+American Goldfinch,L
