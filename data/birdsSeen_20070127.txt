@@ -1,32 +1,32 @@
-Pied-billed Grebe,
-Double-crested Cormorant,
-Great Blue Heron,
-Greater White-fronted Goose,
-Canada Goose,
-Eurasian Wigeon,
-American Wigeon,
-Gadwall,
-Green-winged Teal,
-Mallard,
-Northern Shoveler,
-Ring-necked Duck,
-Lesser Scaup,
-Bufflehead,
-Hooded Merganser,
-Common Merganser,
-Ruddy Duck,
-Red-tailed Hawk,
-American Coot,
-Glaucous-winged Gull,
-Rock Dove,
-Downy Woodpecker,
-Northern Flicker,
-Pacific Wren,
-American Robin,
-Black-capped Chickadee,
-Steller's Jay,
-Northwestern Crow,
-European Starling,
-Yellow-rumped Warbler,
-Red-winged Blackbird,
-American Goldfinch,
+Pied-billed Grebe,E
+Double-crested Cormorant,E
+Great Blue Heron,E
+Greater White-fronted Goose,E
+Canada Goose,E
+Eurasian Wigeon,E
+American Wigeon,E
+Gadwall,E
+Green-winged Teal,E
+Mallard,E
+Northern Shoveler,E
+Ring-necked Duck,E
+Lesser Scaup,E
+Bufflehead,E
+Hooded Merganser,E
+Common Merganser,E
+Ruddy Duck,E
+Red-tailed Hawk,E
+American Coot,E
+Glaucous-winged Gull,E
+Rock Dove,E
+Downy Woodpecker,E
+Northern Flicker,E
+Pacific Wren,E
+American Robin,E
+Black-capped Chickadee,E
+Steller's Jay,E
+Northwestern Crow,E
+European Starling,E
+Yellow-rumped Warbler,E
+Red-winged Blackbird,E
+American Goldfinch,E

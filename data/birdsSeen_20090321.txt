@@ -1,32 +1,32 @@
-Pied-billed Grebe,
-Double-crested Cormorant,
-Great Blue Heron,
-Canada Goose,
-American Wigeon,
-Gadwall,
-Green-winged Teal,
-Mallard,
-Northern Shoveler,
-Lesser Scaup,
-Bufflehead,
-Hooded Merganser,
-Red-tailed Hawk,
-American Coot,
-Killdeer,
-Glaucous-winged Gull,
-Anna's Hummingbird,
-Northern Flicker,
-Tree Swallow,
+Pied-billed Grebe,E
+Double-crested Cormorant,E
+Great Blue Heron,E
+Canada Goose,E
+American Wigeon,E
+Gadwall,E
+Green-winged Teal,E
+Mallard,E
+Northern Shoveler,E
+Lesser Scaup,E
+Bufflehead,E
+Hooded Merganser,E
+Red-tailed Hawk,E
+American Coot,E
+Killdeer,E
+Glaucous-winged Gull,E
+Anna's Hummingbird,E
+Northern Flicker,E
+Tree Swallow,E
 Violet-green Swallow,L
 Marsh Wren,L
-American Robin,
-Bushtit,
+American Robin,E
+Bushtit,E
 Black-capped Chickadee,L
-Northwestern Crow,
-European Starling,
-Yellow-rumped Warbler,
+Northwestern Crow,E
+European Starling,E
+Yellow-rumped Warbler,E
 Song Sparrow,L
 Dark-eyed Junco,L
-Red-winged Blackbird,
+Red-winged Blackbird,E
 House Finch,L
 American Goldfinch,L

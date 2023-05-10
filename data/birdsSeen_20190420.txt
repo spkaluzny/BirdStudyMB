@@ -1,29 +1,29 @@
-Canada Goose,
-Northern Shoveler,
-Gadwall,
+Canada Goose,E
+Northern Shoveler,E
+Gadwall,E
 American Wigeon,L
-Mallard,
-Green-winged Teal,
-Ring-necked Duck,
-Bufflehead,
-Pied-billed Grebe,
-Killdeer,
-Glaucous-winged Gull,
-Double-crested Cormorant,
-Bald Eagle,
-Northern Flicker,
-Northwestern Crow,
+Mallard,E
+Green-winged Teal,E
+Ring-necked Duck,E
+Bufflehead,E
+Pied-billed Grebe,E
+Killdeer,E
+Glaucous-winged Gull,E
+Double-crested Cormorant,E
+Bald Eagle,E
+Northern Flicker,E
+Northwestern Crow,E
 Violet-green Swallow,L
 Black-capped Chickadee,L
 Marsh Wren,L
-American Robin,
-Sage Thrasher,
+American Robin,E
+Sage Thrasher,E
 House Finch,L
-Dark-eyed Junco,
-White-crowned Sparrow,
-Golden-crowned Sparrow,
-Savannah Sparrow,
-Song Sparrow,
-Red-winged Blackbird,
+Dark-eyed Junco,E
+White-crowned Sparrow,E
+Golden-crowned Sparrow,E
+Savannah Sparrow,E
+Song Sparrow,E
+Red-winged Blackbird,E
 Common Yellowthroat,L
 Yellow-rumped Warbler,L

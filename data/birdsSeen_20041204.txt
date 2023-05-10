@@ -1,27 +1,27 @@
 Pied-billed Grebe,L
-Double-crested Cormorant,
-Great Blue Heron,
-Canada Goose,
-American Wigeon,
-Green-winged Teal,
-Mallard,
-Northern Shoveler,
+Double-crested Cormorant,E
+Great Blue Heron,E
+Canada Goose,E
+American Wigeon,E
+Green-winged Teal,E
+Mallard,E
+Northern Shoveler,E
 Ring-necked Duck,L
-Common Goldeneye,
-Bufflehead,
+Common Goldeneye,E
+Bufflehead,E
 Ruddy Duck,L
-American Coot,
-Ring-billed Gull,
-Northern Flicker,
+American Coot,E
+Ring-billed Gull,E
+Northern Flicker,E
 Ruby-crowned Kinglet,L
-Bewick's Wren,
-American Robin,
-Bushtit,
-Black-capped Chickadee,
-Northwestern Crow,
-European Starling,
-Yellow-rumped Warbler,
-Song Sparrow,
-White-crowned Sparrow,
+Bewick's Wren,E
+American Robin,E
+Bushtit,E
+Black-capped Chickadee,E
+Northwestern Crow,E
+European Starling,E
+Yellow-rumped Warbler,E
+Song Sparrow,E
+White-crowned Sparrow,E
 House Finch,L
-American Goldfinch,
+American Goldfinch,E

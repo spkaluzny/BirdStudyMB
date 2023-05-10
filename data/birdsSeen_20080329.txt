@@ -1,36 +1,36 @@
-Pied-billed Grebe,
-Double-crested Cormorant,
-Great Blue Heron,
-Canada Goose,
-American Wigeon,
-Gadwall,
-Green-winged Teal,
-Mallard,
-Northern Shoveler,
-Ring-necked Duck,
-Lesser Scaup,
-Bufflehead,
-Common Merganser,
-Ruddy Duck,
-Cooper's Hawk,
-Ring-necked Pheasant,
-American Coot,
-Killdeer,
-Anna's Hummingbird,
-Belted Kingfisher,
-Northern Flicker,
-Say's Phoebe,
-Tree Swallow,
-Violet-green Swallow,
-Ruby-crowned Kinglet,
-American Robin,
-Bushtit,
-Black-capped Chickadee,
-Northwestern Crow,
-European Starling,
-Yellow-rumped Warbler,
-Song Sparrow,
-White-crowned Sparrow,
-Red-winged Blackbird,
-House Finch,
-American Goldfinch,
+Pied-billed Grebe,E
+Double-crested Cormorant,E
+Great Blue Heron,E
+Canada Goose,E
+American Wigeon,E
+Gadwall,E
+Green-winged Teal,E
+Mallard,E
+Northern Shoveler,E
+Ring-necked Duck,E
+Lesser Scaup,E
+Bufflehead,E
+Common Merganser,E
+Ruddy Duck,E
+Cooper's Hawk,E
+Ring-necked Pheasant,E
+American Coot,E
+Killdeer,E
+Anna's Hummingbird,E
+Belted Kingfisher,E
+Northern Flicker,E
+Say's Phoebe,E
+Tree Swallow,E
+Violet-green Swallow,E
+Ruby-crowned Kinglet,E
+American Robin,E
+Bushtit,E
+Black-capped Chickadee,E
+Northwestern Crow,E
+European Starling,E
+Yellow-rumped Warbler,E
+Song Sparrow,E
+White-crowned Sparrow,E
+Red-winged Blackbird,E
+House Finch,E
+American Goldfinch,E

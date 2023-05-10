@@ -1,42 +1,42 @@
-Canada Goose,
-American Wigeon,
-Gadwall,
-Mallard,
-Northern Shoveler,
-Green-winged Teal,
-Ring-necked Duck,
-Lesser Scaup,
-Bufflehead,
-Common Merganser,
-Pied-billed Grebe,
-Double-crested Cormorant,
-Great Blue Heron,
-Bald Eagle,
-Red-tailed Hawk,
-Virginia Rail,
-American Coot,
+Canada Goose,E
+American Wigeon,E
+Gadwall,E
+Mallard,E
+Northern Shoveler,E
+Green-winged Teal,E
+Ring-necked Duck,E
+Lesser Scaup,E
+Bufflehead,E
+Common Merganser,E
+Pied-billed Grebe,E
+Double-crested Cormorant,E
+Great Blue Heron,E
+Bald Eagle,E
+Red-tailed Hawk,E
+Virginia Rail,E
+American Coot,E
 Killdeer,L
-Glaucous-winged Gull,
-Anna's Hummingbird,
+Glaucous-winged Gull,E
+Anna's Hummingbird,E
 Downy Woodpecker,L
-Northern Flicker,
+Northern Flicker,E
 Western Scrub-Jay,L
-Northwestern Crow,
-Tree Swallow,
-Violet-green Swallow,
+Northwestern Crow,E
+Tree Swallow,E
+Violet-green Swallow,E
 Black-capped Chickadee,L
-Bushtit,
+Bushtit,E
 Bewick's Wren,L
-Marsh Wren,
+Marsh Wren,E
 Rub-crowned Kinglet,L
-American Robin,
-European Starling,
-Yellow-rumped Warbler,
+American Robin,E
+European Starling,E
+Yellow-rumped Warbler,E
 Spotted Towhee,L
-Savannah Sparrow,
-Song Sparrow,
+Savannah Sparrow,E
+Song Sparrow,E
 White-crowned Sparrow,L
 Dark-eyed Junco,L
-Red-winged Blackbird,
+Red-winged Blackbird,E
 Eastern Meadowlark,L
-American Goldfinch,
+American Goldfinch,E

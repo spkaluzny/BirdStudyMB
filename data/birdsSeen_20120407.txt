@@ -1,35 +1,35 @@
-Canada Goose,
-Gadwall,
-Mallard,
-Cinnamon Teal,
-Northern Shoveler,
-Green-winged Teal,
-Bufflehead,
-Hooded Merganser,
-Common Merganser,
-Pied-billed Grebe,
-Double-crested Cormorant,
-Great Blue Heron,
-Bald Eagle,
-Cooper's Hawk,
-Red-tailed Hawk,
-Virginia Rail,
-American Coot,
-Killdeer,
-Anna's Hummingbird,
-Northern Flicker,
-Northwestern Crow,
-Tree Swallow,
-Violet-green Swallow,
-Black-capped Chickadee,
-Bewick's Wren,
-Marsh Wren,
-Ruby-crowned Kinglet,
-American Robin,
-Yellow-rumped Warbler,
-Savannah Sparrow,
-Song Sparrow,
-Red-winged Blackbird,
-House Finch,
-Pine Siskin,
-American Goldfinch,
+Canada Goose,E
+Gadwall,E
+Mallard,E
+Cinnamon Teal,E
+Northern Shoveler,E
+Green-winged Teal,E
+Bufflehead,E
+Hooded Merganser,E
+Common Merganser,E
+Pied-billed Grebe,E
+Double-crested Cormorant,E
+Great Blue Heron,E
+Bald Eagle,E
+Cooper's Hawk,E
+Red-tailed Hawk,E
+Virginia Rail,E
+American Coot,E
+Killdeer,E
+Anna's Hummingbird,E
+Northern Flicker,E
+Northwestern Crow,E
+Tree Swallow,E
+Violet-green Swallow,E
+Black-capped Chickadee,E
+Bewick's Wren,E
+Marsh Wren,E
+Ruby-crowned Kinglet,E
+American Robin,E
+Yellow-rumped Warbler,E
+Savannah Sparrow,E
+Song Sparrow,E
+Red-winged Blackbird,E
+House Finch,E
+Pine Siskin,E
+American Goldfinch,E

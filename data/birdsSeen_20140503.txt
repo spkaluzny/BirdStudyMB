@@ -1,27 +1,27 @@
-Canada Goose,
-Gadwall,
-American Wigeon,
-Mallard,
-Northern Shoveler,
+Canada Goose,E
+Gadwall,E
+American Wigeon,E
+Mallard,E
+Northern Shoveler,E
 Pied-billed Grebe,L
-Great Blue Heron,
-Bald Eagle,
-Killdeer,
+Great Blue Heron,E
+Bald Eagle,E
+Killdeer,E
 Glaucous-winged Gull,L
-Anna's Hummingbird,
-Northwestern Crow,
-Tree Swallow,
+Anna's Hummingbird,E
+Northwestern Crow,E
+Tree Swallow,E
 Violet-green Swallow,L
-Barn Swallow,
+Barn Swallow,E
 Marsh Wren,L
-American Robin,
-European Starling,
+American Robin,E
+European Starling,E
 Orange-crowned Warbler,L
 Common Yellowthroat,L
 Spotted Towhee,L
-Savannah Sparrow,
-Song Sparrow,
+Savannah Sparrow,E
+Song Sparrow,E
 White-crowned Sparrow,L
-Red-winged Blackbird,
-House Finch,
-American Goldfinch,
+Red-winged Blackbird,E
+House Finch,E
+American Goldfinch,E

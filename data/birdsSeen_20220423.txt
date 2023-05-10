@@ -1,34 +1,34 @@
-Canada Goose,
-Cinnamon Teal,
-Northern Shoveler,
-Gadwall,
-Mallard,
-Green-winged Teal,
-Ring-necked Duck,
-Bufflehead,
-Common Merganser,
-Pied-billed Grebe,
-Anna's Hummingbird,
+Canada Goose,E
+Cinnamon Teal,E
+Northern Shoveler,E
+Gadwall,E
+Mallard,E
+Green-winged Teal,E
+Ring-necked Duck,E
+Bufflehead,E
+Common Merganser,E
+Pied-billed Grebe,E
+Anna's Hummingbird,E
 Virginia Rail,L
-Glaucous-winged Gull,
-Double-crested Cormorant,
-Great Blue Heron,
+Glaucous-winged Gull,E
+Double-crested Cormorant,E
+Great Blue Heron,E
 Osprey,L
-Bald Eagle,
+Bald Eagle,E
 Steller's Jay,L
-American Crow,
+American Crow,E
 Black-capped Chickadee,L
-Tree Swallow,
-Violet-green Swallow,
-Barn Swallow,
+Tree Swallow,E
+Violet-green Swallow,E
+Barn Swallow,E
 Marsh Wren,L
-American Robin,
+American Robin,E
 House Finch,L
-American Goldfinch,
-Dark-eyed Junco,
-White-crowned Sparrow,
-Savannah Sparrow,
-Song Sparrow,
-Red-winged Blackbird,
-Common Yellowthroat,
-Yellow-rumped Warbler,
+American Goldfinch,E
+Dark-eyed Junco,E
+White-crowned Sparrow,E
+Savannah Sparrow,E
+Song Sparrow,E
+Red-winged Blackbird,E
+Common Yellowthroat,E
+Yellow-rumped Warbler,E

@@ -1,454 +1,454 @@
-"Species","LeadersOnly","Year"
+"Species","SeenBy","Year"
 "Pied-billed Grebe","L",2004
-"Double-crested Cormorant","",2004
-"Great Blue Heron","",2004
-"Canada Goose","",2004
-"American Wigeon","",2004
-"Green-winged Teal","",2004
-"Mallard","",2004
-"Northern Shoveler","",2004
+"Double-crested Cormorant","E",2004
+"Great Blue Heron","E",2004
+"Canada Goose","E",2004
+"American Wigeon","E",2004
+"Green-winged Teal","E",2004
+"Mallard","E",2004
+"Northern Shoveler","E",2004
 "Ring-necked Duck","L",2004
-"Common Goldeneye","",2004
-"Bufflehead","",2004
+"Common Goldeneye","E",2004
+"Bufflehead","E",2004
 "Ruddy Duck","L",2004
-"American Coot","",2004
-"Ring-billed Gull","",2004
-"Northern Flicker","",2004
+"American Coot","E",2004
+"Ring-billed Gull","E",2004
+"Northern Flicker","E",2004
 "Ruby-crowned Kinglet","L",2004
-"Bewick's Wren","",2004
-"American Robin","",2004
-"Bushtit","",2004
-"Black-capped Chickadee","",2004
-"Northwestern Crow","",2004
-"European Starling","",2004
-"Yellow-rumped Warbler","",2004
-"Song Sparrow","",2004
-"White-crowned Sparrow","",2004
+"Bewick's Wren","E",2004
+"American Robin","E",2004
+"Bushtit","E",2004
+"Black-capped Chickadee","E",2004
+"Northwestern Crow","E",2004
+"European Starling","E",2004
+"Yellow-rumped Warbler","E",2004
+"Song Sparrow","E",2004
+"White-crowned Sparrow","E",2004
 "House Finch","L",2004
-"American Goldfinch","",2004
-"Pied-billed Grebe",NA,2007
-"Double-crested Cormorant",NA,2007
-"Great Blue Heron",NA,2007
-"Greater White-fronted Goose",NA,2007
-"Canada Goose",NA,2007
-"Eurasian Wigeon",NA,2007
-"American Wigeon",NA,2007
-"Gadwall",NA,2007
-"Green-winged Teal",NA,2007
-"Mallard",NA,2007
-"Northern Shoveler",NA,2007
-"Ring-necked Duck",NA,2007
-"Lesser Scaup",NA,2007
-"Bufflehead",NA,2007
-"Hooded Merganser",NA,2007
-"Common Merganser",NA,2007
-"Ruddy Duck",NA,2007
-"Red-tailed Hawk",NA,2007
-"American Coot",NA,2007
-"Glaucous-winged Gull",NA,2007
-"Rock Dove",NA,2007
-"Downy Woodpecker",NA,2007
-"Northern Flicker",NA,2007
-"Pacific Wren",NA,2007
-"American Robin",NA,2007
-"Black-capped Chickadee",NA,2007
-"Steller's Jay",NA,2007
-"Northwestern Crow",NA,2007
-"European Starling",NA,2007
-"Yellow-rumped Warbler",NA,2007
-"Red-winged Blackbird",NA,2007
-"American Goldfinch",NA,2007
-"Pied-billed Grebe",NA,2008
-"Double-crested Cormorant",NA,2008
-"Great Blue Heron",NA,2008
-"Canada Goose",NA,2008
-"American Wigeon",NA,2008
-"Gadwall",NA,2008
-"Green-winged Teal",NA,2008
-"Mallard",NA,2008
-"Northern Shoveler",NA,2008
-"Ring-necked Duck",NA,2008
-"Lesser Scaup",NA,2008
-"Bufflehead",NA,2008
-"Common Merganser",NA,2008
-"Ruddy Duck",NA,2008
-"Cooper's Hawk",NA,2008
-"Ring-necked Pheasant",NA,2008
-"American Coot",NA,2008
-"Killdeer",NA,2008
-"Anna's Hummingbird",NA,2008
-"Belted Kingfisher",NA,2008
-"Northern Flicker",NA,2008
-"Say's Phoebe",NA,2008
-"Tree Swallow",NA,2008
-"Violet-green Swallow",NA,2008
-"Ruby-crowned Kinglet",NA,2008
-"American Robin",NA,2008
-"Bushtit",NA,2008
-"Black-capped Chickadee",NA,2008
-"Northwestern Crow",NA,2008
-"European Starling",NA,2008
-"Yellow-rumped Warbler",NA,2008
-"Song Sparrow",NA,2008
-"White-crowned Sparrow",NA,2008
-"Red-winged Blackbird",NA,2008
-"House Finch",NA,2008
-"American Goldfinch",NA,2008
-"Pied-billed Grebe","",2009
-"Double-crested Cormorant","",2009
-"Great Blue Heron","",2009
-"Canada Goose","",2009
-"American Wigeon","",2009
-"Gadwall","",2009
-"Green-winged Teal","",2009
-"Mallard","",2009
-"Northern Shoveler","",2009
-"Lesser Scaup","",2009
-"Bufflehead","",2009
-"Hooded Merganser","",2009
-"Red-tailed Hawk","",2009
-"American Coot","",2009
-"Killdeer","",2009
-"Glaucous-winged Gull","",2009
-"Anna's Hummingbird","",2009
-"Northern Flicker","",2009
-"Tree Swallow","",2009
+"American Goldfinch","E",2004
+"Pied-billed Grebe","E",2007
+"Double-crested Cormorant","E",2007
+"Great Blue Heron","E",2007
+"Greater White-fronted Goose","E",2007
+"Canada Goose","E",2007
+"Eurasian Wigeon","E",2007
+"American Wigeon","E",2007
+"Gadwall","E",2007
+"Green-winged Teal","E",2007
+"Mallard","E",2007
+"Northern Shoveler","E",2007
+"Ring-necked Duck","E",2007
+"Lesser Scaup","E",2007
+"Bufflehead","E",2007
+"Hooded Merganser","E",2007
+"Common Merganser","E",2007
+"Ruddy Duck","E",2007
+"Red-tailed Hawk","E",2007
+"American Coot","E",2007
+"Glaucous-winged Gull","E",2007
+"Rock Dove","E",2007
+"Downy Woodpecker","E",2007
+"Northern Flicker","E",2007
+"Pacific Wren","E",2007
+"American Robin","E",2007
+"Black-capped Chickadee","E",2007
+"Steller's Jay","E",2007
+"Northwestern Crow","E",2007
+"European Starling","E",2007
+"Yellow-rumped Warbler","E",2007
+"Red-winged Blackbird","E",2007
+"American Goldfinch","E",2007
+"Pied-billed Grebe","E",2008
+"Double-crested Cormorant","E",2008
+"Great Blue Heron","E",2008
+"Canada Goose","E",2008
+"American Wigeon","E",2008
+"Gadwall","E",2008
+"Green-winged Teal","E",2008
+"Mallard","E",2008
+"Northern Shoveler","E",2008
+"Ring-necked Duck","E",2008
+"Lesser Scaup","E",2008
+"Bufflehead","E",2008
+"Common Merganser","E",2008
+"Ruddy Duck","E",2008
+"Cooper's Hawk","E",2008
+"Ring-necked Pheasant","E",2008
+"American Coot","E",2008
+"Killdeer","E",2008
+"Anna's Hummingbird","E",2008
+"Belted Kingfisher","E",2008
+"Northern Flicker","E",2008
+"Say's Phoebe","E",2008
+"Tree Swallow","E",2008
+"Violet-green Swallow","E",2008
+"Ruby-crowned Kinglet","E",2008
+"American Robin","E",2008
+"Bushtit","E",2008
+"Black-capped Chickadee","E",2008
+"Northwestern Crow","E",2008
+"European Starling","E",2008
+"Yellow-rumped Warbler","E",2008
+"Song Sparrow","E",2008
+"White-crowned Sparrow","E",2008
+"Red-winged Blackbird","E",2008
+"House Finch","E",2008
+"American Goldfinch","E",2008
+"Pied-billed Grebe","E",2009
+"Double-crested Cormorant","E",2009
+"Great Blue Heron","E",2009
+"Canada Goose","E",2009
+"American Wigeon","E",2009
+"Gadwall","E",2009
+"Green-winged Teal","E",2009
+"Mallard","E",2009
+"Northern Shoveler","E",2009
+"Lesser Scaup","E",2009
+"Bufflehead","E",2009
+"Hooded Merganser","E",2009
+"Red-tailed Hawk","E",2009
+"American Coot","E",2009
+"Killdeer","E",2009
+"Glaucous-winged Gull","E",2009
+"Anna's Hummingbird","E",2009
+"Northern Flicker","E",2009
+"Tree Swallow","E",2009
 "Violet-green Swallow","L",2009
 "Marsh Wren","L",2009
-"American Robin","",2009
-"Bushtit","",2009
+"American Robin","E",2009
+"Bushtit","E",2009
 "Black-capped Chickadee","L",2009
-"Northwestern Crow","",2009
-"European Starling","",2009
-"Yellow-rumped Warbler","",2009
+"Northwestern Crow","E",2009
+"European Starling","E",2009
+"Yellow-rumped Warbler","E",2009
 "Song Sparrow","L",2009
 "Dark-eyed Junco","L",2009
-"Red-winged Blackbird","",2009
+"Red-winged Blackbird","E",2009
 "House Finch","L",2009
 "American Goldfinch","L",2009
-"Canada Goose","",2010
-"Gadwall","",2010
-"American Wigeon","",2010
-"Mallard","",2010
-"Northern Shoveler","",2010
-"Green-winged Teal","",2010
-"Ring-necked Duck","",2010
-"Lesser Scaup","",2010
-"Bufflehead","",2010
-"Hooded Merganser","",2010
-"Double-crested Cormorant","",2010
-"Great Blue Heron","",2010
-"Bald Eagle","",2010
-"American Coot","",2010
-"Killdeer","",2010
-"Glaucous-winged Gull","",2010
-"Anna's Hummingbird","",2010
-"Northwestern Crow","",2010
-"Tree Swallow","",2010
+"Canada Goose","E",2010
+"Gadwall","E",2010
+"American Wigeon","E",2010
+"Mallard","E",2010
+"Northern Shoveler","E",2010
+"Green-winged Teal","E",2010
+"Ring-necked Duck","E",2010
+"Lesser Scaup","E",2010
+"Bufflehead","E",2010
+"Hooded Merganser","E",2010
+"Double-crested Cormorant","E",2010
+"Great Blue Heron","E",2010
+"Bald Eagle","E",2010
+"American Coot","E",2010
+"Killdeer","E",2010
+"Glaucous-winged Gull","E",2010
+"Anna's Hummingbird","E",2010
+"Northwestern Crow","E",2010
+"Tree Swallow","E",2010
 "Violet-green Swallow","L",2010
 "Black-capped Chickadee","L",2010
 "Bushtit","L",2010
 "Bewick's Wren","L",2010
 "Marsh Wren","L",2010
-"American Robin","",2010
-"European Starling","",2010
-"Cedar Waxwing","",2010
-"Yellow-rumped Warbler","",2010
+"American Robin","E",2010
+"European Starling","E",2010
+"Cedar Waxwing","E",2010
+"Yellow-rumped Warbler","E",2010
 "Spotted Towhee","L",2010
 "Song Sparrow","L",2010
-"Red-winged Blackbird","",2010
-"Canada Goose","",2011
-"American Wigeon","",2011
-"Gadwall","",2011
-"Mallard","",2011
-"Northern Shoveler","",2011
-"Green-winged Teal","",2011
-"Ring-necked Duck","",2011
-"Lesser Scaup","",2011
-"Bufflehead","",2011
-"Common Merganser","",2011
-"Pied-billed Grebe","",2011
-"Double-crested Cormorant","",2011
-"Great Blue Heron","",2011
-"Bald Eagle","",2011
-"Red-tailed Hawk","",2011
-"Virginia Rail","",2011
-"American Coot","",2011
+"Red-winged Blackbird","E",2010
+"Canada Goose","E",2011
+"American Wigeon","E",2011
+"Gadwall","E",2011
+"Mallard","E",2011
+"Northern Shoveler","E",2011
+"Green-winged Teal","E",2011
+"Ring-necked Duck","E",2011
+"Lesser Scaup","E",2011
+"Bufflehead","E",2011
+"Common Merganser","E",2011
+"Pied-billed Grebe","E",2011
+"Double-crested Cormorant","E",2011
+"Great Blue Heron","E",2011
+"Bald Eagle","E",2011
+"Red-tailed Hawk","E",2011
+"Virginia Rail","E",2011
+"American Coot","E",2011
 "Killdeer","L",2011
-"Glaucous-winged Gull","",2011
-"Anna's Hummingbird","",2011
+"Glaucous-winged Gull","E",2011
+"Anna's Hummingbird","E",2011
 "Downy Woodpecker","L",2011
-"Northern Flicker","",2011
+"Northern Flicker","E",2011
 "Western Scrub-Jay","L",2011
-"Northwestern Crow","",2011
-"Tree Swallow","",2011
-"Violet-green Swallow","",2011
+"Northwestern Crow","E",2011
+"Tree Swallow","E",2011
+"Violet-green Swallow","E",2011
 "Black-capped Chickadee","L",2011
-"Bushtit","",2011
+"Bushtit","E",2011
 "Bewick's Wren","L",2011
-"Marsh Wren","",2011
+"Marsh Wren","E",2011
 "Rub-crowned Kinglet","L",2011
-"American Robin","",2011
-"European Starling","",2011
-"Yellow-rumped Warbler","",2011
+"American Robin","E",2011
+"European Starling","E",2011
+"Yellow-rumped Warbler","E",2011
 "Spotted Towhee","L",2011
-"Savannah Sparrow","",2011
-"Song Sparrow","",2011
+"Savannah Sparrow","E",2011
+"Song Sparrow","E",2011
 "White-crowned Sparrow","L",2011
 "Dark-eyed Junco","L",2011
-"Red-winged Blackbird","",2011
+"Red-winged Blackbird","E",2011
 "Eastern Meadowlark","L",2011
-"American Goldfinch","",2011
-"Canada Goose",NA,2012
-"Gadwall",NA,2012
-"Mallard",NA,2012
-"Cinnamon Teal",NA,2012
-"Northern Shoveler",NA,2012
-"Green-winged Teal",NA,2012
-"Bufflehead",NA,2012
-"Hooded Merganser",NA,2012
-"Common Merganser",NA,2012
-"Pied-billed Grebe",NA,2012
-"Double-crested Cormorant",NA,2012
-"Great Blue Heron",NA,2012
-"Bald Eagle",NA,2012
-"Cooper's Hawk",NA,2012
-"Red-tailed Hawk",NA,2012
-"Virginia Rail",NA,2012
-"American Coot",NA,2012
-"Killdeer",NA,2012
-"Anna's Hummingbird",NA,2012
-"Northern Flicker",NA,2012
-"Northwestern Crow",NA,2012
-"Tree Swallow",NA,2012
-"Violet-green Swallow",NA,2012
-"Black-capped Chickadee",NA,2012
-"Bewick's Wren",NA,2012
-"Marsh Wren",NA,2012
-"Ruby-crowned Kinglet",NA,2012
-"American Robin",NA,2012
-"Yellow-rumped Warbler",NA,2012
-"Savannah Sparrow",NA,2012
-"Song Sparrow",NA,2012
-"Red-winged Blackbird",NA,2012
-"House Finch",NA,2012
-"Pine Siskin",NA,2012
-"American Goldfinch",NA,2012
-"Canada Goose","",2014
-"Gadwall","",2014
-"American Wigeon","",2014
-"Mallard","",2014
-"Northern Shoveler","",2014
+"American Goldfinch","E",2011
+"Canada Goose","E",2012
+"Gadwall","E",2012
+"Mallard","E",2012
+"Cinnamon Teal","E",2012
+"Northern Shoveler","E",2012
+"Green-winged Teal","E",2012
+"Bufflehead","E",2012
+"Hooded Merganser","E",2012
+"Common Merganser","E",2012
+"Pied-billed Grebe","E",2012
+"Double-crested Cormorant","E",2012
+"Great Blue Heron","E",2012
+"Bald Eagle","E",2012
+"Cooper's Hawk","E",2012
+"Red-tailed Hawk","E",2012
+"Virginia Rail","E",2012
+"American Coot","E",2012
+"Killdeer","E",2012
+"Anna's Hummingbird","E",2012
+"Northern Flicker","E",2012
+"Northwestern Crow","E",2012
+"Tree Swallow","E",2012
+"Violet-green Swallow","E",2012
+"Black-capped Chickadee","E",2012
+"Bewick's Wren","E",2012
+"Marsh Wren","E",2012
+"Ruby-crowned Kinglet","E",2012
+"American Robin","E",2012
+"Yellow-rumped Warbler","E",2012
+"Savannah Sparrow","E",2012
+"Song Sparrow","E",2012
+"Red-winged Blackbird","E",2012
+"House Finch","E",2012
+"Pine Siskin","E",2012
+"American Goldfinch","E",2012
+"Canada Goose","E",2014
+"Gadwall","E",2014
+"American Wigeon","E",2014
+"Mallard","E",2014
+"Northern Shoveler","E",2014
 "Pied-billed Grebe","L",2014
-"Great Blue Heron","",2014
-"Bald Eagle","",2014
-"Killdeer","",2014
+"Great Blue Heron","E",2014
+"Bald Eagle","E",2014
+"Killdeer","E",2014
 "Glaucous-winged Gull","L",2014
-"Anna's Hummingbird","",2014
-"Northwestern Crow","",2014
-"Tree Swallow","",2014
+"Anna's Hummingbird","E",2014
+"Northwestern Crow","E",2014
+"Tree Swallow","E",2014
 "Violet-green Swallow","L",2014
-"Barn Swallow","",2014
+"Barn Swallow","E",2014
 "Marsh Wren","L",2014
-"American Robin","",2014
-"European Starling","",2014
+"American Robin","E",2014
+"European Starling","E",2014
 "Orange-crowned Warbler","L",2014
 "Common Yellowthroat","L",2014
 "Spotted Towhee","L",2014
-"Savannah Sparrow","",2014
-"Song Sparrow","",2014
+"Savannah Sparrow","E",2014
+"Song Sparrow","E",2014
 "White-crowned Sparrow","L",2014
-"Red-winged Blackbird","",2014
-"House Finch","",2014
-"American Goldfinch","",2014
-"Canada Goose","",2016
-"Gadwall","",2016
-"Mallard","",2016
-"Ring-necked Duck","",2016
-"Bufflehead","",2016
-"Pied-billed Grebe","",2016
-"Double-crested Cormorant","",2016
-"Great Blue Heron","",2016
-"Osprey","",2016
-"Bald Eagle","",2016
+"Red-winged Blackbird","E",2014
+"House Finch","E",2014
+"American Goldfinch","E",2014
+"Canada Goose","E",2016
+"Gadwall","E",2016
+"Mallard","E",2016
+"Ring-necked Duck","E",2016
+"Bufflehead","E",2016
+"Pied-billed Grebe","E",2016
+"Double-crested Cormorant","E",2016
+"Great Blue Heron","E",2016
+"Osprey","E",2016
+"Bald Eagle","E",2016
 "Virginia Rail","L",2016
 "Glaucous-winged Gull","L",2016
-"Anna's Hummingbird","",2016
+"Anna's Hummingbird","E",2016
 "Northern Flicker","L",2016
-"Northwestern Crow","",2016
-"Tree Swallow","",2016
-"Violet-green Swallow","",2016
-"Barn Swallow","",2016
-"Cliff Swallow","",2016
+"Northwestern Crow","E",2016
+"Tree Swallow","E",2016
+"Violet-green Swallow","E",2016
+"Barn Swallow","E",2016
+"Cliff Swallow","E",2016
 "Bushtit","L",2016
 "Brown Creeper","L",2016
-"Marsh Wren","",2016
-"American Robin","",2016
+"Marsh Wren","E",2016
+"American Robin","E",2016
 "Common Yellowthroat","L",2016
 "Dark-eyed Junco","L",2016
-"White-crowned Sparrow","",2016
-"Savannah Sparrow","",2016
-"Song Sparrow","",2016
+"White-crowned Sparrow","E",2016
+"Savannah Sparrow","E",2016
+"Song Sparrow","E",2016
 "Spotted Towhee","L",2016
-"Red-winged Blackbird","",2016
+"Red-winged Blackbird","E",2016
 "House Finch","L",2016
 "American Goldfinch","L",2016
-"Canada Goose","",2017
-"Gadwall","",2017
-"American Wigeon","",2017
-"Mallard","",2017
-"Cinnamon Teal","",2017
-"Northern Shoveler","",2017
-"Green-winged Teal","",2017
+"Canada Goose","E",2017
+"Gadwall","E",2017
+"American Wigeon","E",2017
+"Mallard","E",2017
+"Cinnamon Teal","E",2017
+"Northern Shoveler","E",2017
+"Green-winged Teal","E",2017
 "Ring-necked Duck","L",2017
-"Bufflehead","",2017
+"Bufflehead","E",2017
 "Common Goldeneye","L",2017
-"Common Merganser","",2017
-"Pied-billed Grebe","",2017
-"Double-crested Cormorant","",2017
-"Great Blue Heron","",2017
+"Common Merganser","E",2017
+"Pied-billed Grebe","E",2017
+"Double-crested Cormorant","E",2017
+"Great Blue Heron","E",2017
 "Osprey","L",2017
-"Bald Eagle","",2017
-"American Coot","",2017
-"Killdeer","",2017
-"Glaucous-winged Gull","",2017
-"Anna's Hummingbird","",2017
-"Northwestern Crow","",2017
-"Tree Swallow","",2017
+"Bald Eagle","E",2017
+"American Coot","E",2017
+"Killdeer","E",2017
+"Glaucous-winged Gull","E",2017
+"Anna's Hummingbird","E",2017
+"Northwestern Crow","E",2017
+"Tree Swallow","E",2017
 "Violet-green Swallow","L",2017
-"Black-capped Chickadee","",2017
+"Black-capped Chickadee","E",2017
 "Marsh Wren","L",2017
-"American Robin","",2017
-"Yellow-rumped Warbler","",2017
-"White-crowned Sparrow","",2017
-"Savannah Sparrow","",2017
+"American Robin","E",2017
+"Yellow-rumped Warbler","E",2017
+"White-crowned Sparrow","E",2017
+"Savannah Sparrow","E",2017
 "Spotted Towhee","L",2017
-"Red-winged Blackbird","",2017
+"Red-winged Blackbird","E",2017
 "House Finch","L",2017
 "American Goldfinch","L",2017
 "Cedar Waxwing","L",2017
-"Canada Goose","",2019
-"Northern Shoveler","",2019
-"Gadwall","",2019
+"Canada Goose","E",2019
+"Northern Shoveler","E",2019
+"Gadwall","E",2019
 "American Wigeon","L",2019
-"Mallard","",2019
-"Green-winged Teal","",2019
-"Ring-necked Duck","",2019
-"Bufflehead","",2019
-"Pied-billed Grebe","",2019
-"Killdeer","",2019
-"Glaucous-winged Gull","",2019
-"Double-crested Cormorant","",2019
-"Bald Eagle","",2019
-"Northern Flicker","",2019
-"Northwestern Crow","",2019
+"Mallard","E",2019
+"Green-winged Teal","E",2019
+"Ring-necked Duck","E",2019
+"Bufflehead","E",2019
+"Pied-billed Grebe","E",2019
+"Killdeer","E",2019
+"Glaucous-winged Gull","E",2019
+"Double-crested Cormorant","E",2019
+"Bald Eagle","E",2019
+"Northern Flicker","E",2019
+"Northwestern Crow","E",2019
 "Violet-green Swallow","L",2019
 "Black-capped Chickadee","L",2019
 "Marsh Wren","L",2019
-"American Robin","",2019
-"Sage Thrasher","",2019
+"American Robin","E",2019
+"Sage Thrasher","E",2019
 "House Finch","L",2019
-"Dark-eyed Junco","",2019
-"White-crowned Sparrow","",2019
-"Golden-crowned Sparrow","",2019
-"Savannah Sparrow","",2019
-"Song Sparrow","",2019
-"Red-winged Blackbird","",2019
+"Dark-eyed Junco","E",2019
+"White-crowned Sparrow","E",2019
+"Golden-crowned Sparrow","E",2019
+"Savannah Sparrow","E",2019
+"Song Sparrow","E",2019
+"Red-winged Blackbird","E",2019
 "Common Yellowthroat","L",2019
 "Yellow-rumped Warbler","L",2019
-"Canada Goose","",2021
-"Gadwall","",2021
-"American Wigeon","",2021
-"Mallard","",2021
-"Cinnamon Teal","",2021
-"Northern Shoveler","",2021
-"Ring-necked Duck","",2021
-"Pied-billed Grebe","",2021
+"Canada Goose","E",2021
+"Gadwall","E",2021
+"American Wigeon","E",2021
+"Mallard","E",2021
+"Cinnamon Teal","E",2021
+"Northern Shoveler","E",2021
+"Ring-necked Duck","E",2021
+"Pied-billed Grebe","E",2021
 "Eurasian Collared-Dove","L",2021
-"Double-crested Cormorant","",2021
-"Great Blue Heron","",2021
-"Bald Eagle","",2021
-"Cooper's Hawk","",2021
-"American Coot","",2021
-"Glaucous-winged Gull","",2021
-"Casian Tern","",2021
-"Anna's Hummingbird","",2021
+"Double-crested Cormorant","E",2021
+"Great Blue Heron","E",2021
+"Bald Eagle","E",2021
+"Cooper's Hawk","E",2021
+"American Coot","E",2021
+"Glaucous-winged Gull","E",2021
+"Casian Tern","E",2021
+"Anna's Hummingbird","E",2021
 "Northern Flicker","L",2021
-"American Crow","",2021
-"Steller's Jay","",2021
-"Violet-green Swallow","",2021
-"Black-capped Chickadee","",2021
-"Marsh Wren","",2021
-"Bewick's Wren","",2021
-"American Robin","",2021
-"Yellow-rumped Warbler","",2021
-"White-crowned Sparrow","",2021
-"Song Sparrow","",2021
+"American Crow","E",2021
+"Steller's Jay","E",2021
+"Violet-green Swallow","E",2021
+"Black-capped Chickadee","E",2021
+"Marsh Wren","E",2021
+"Bewick's Wren","E",2021
+"American Robin","E",2021
+"Yellow-rumped Warbler","E",2021
+"White-crowned Sparrow","E",2021
+"Song Sparrow","E",2021
 "Spotted Towhee","L",2021
 "Dark-eyed Junco","L",2021
-"Red-winged Blackbird","",2021
-"House Finch","",2021
-"Canada Goose","",2022
-"Cinnamon Teal","",2022
-"Northern Shoveler","",2022
-"Gadwall","",2022
-"Mallard","",2022
-"Green-winged Teal","",2022
-"Ring-necked Duck","",2022
-"Bufflehead","",2022
-"Common Merganser","",2022
-"Pied-billed Grebe","",2022
-"Anna's Hummingbird","",2022
+"Red-winged Blackbird","E",2021
+"House Finch","E",2021
+"Canada Goose","E",2022
+"Cinnamon Teal","E",2022
+"Northern Shoveler","E",2022
+"Gadwall","E",2022
+"Mallard","E",2022
+"Green-winged Teal","E",2022
+"Ring-necked Duck","E",2022
+"Bufflehead","E",2022
+"Common Merganser","E",2022
+"Pied-billed Grebe","E",2022
+"Anna's Hummingbird","E",2022
 "Virginia Rail","L",2022
-"Glaucous-winged Gull","",2022
-"Double-crested Cormorant","",2022
-"Great Blue Heron","",2022
+"Glaucous-winged Gull","E",2022
+"Double-crested Cormorant","E",2022
+"Great Blue Heron","E",2022
 "Osprey","L",2022
-"Bald Eagle","",2022
+"Bald Eagle","E",2022
 "Steller's Jay","L",2022
-"American Crow","",2022
+"American Crow","E",2022
 "Black-capped Chickadee","L",2022
-"Tree Swallow","",2022
-"Violet-green Swallow","",2022
-"Barn Swallow","",2022
+"Tree Swallow","E",2022
+"Violet-green Swallow","E",2022
+"Barn Swallow","E",2022
 "Marsh Wren","L",2022
-"American Robin","",2022
+"American Robin","E",2022
 "House Finch","L",2022
-"American Goldfinch","",2022
-"Dark-eyed Junco","",2022
-"White-crowned Sparrow","",2022
-"Savannah Sparrow","",2022
-"Song Sparrow","",2022
-"Red-winged Blackbird","",2022
-"Common Yellowthroat","",2022
-"Yellow-rumped Warbler","",2022
-"Canada Goose","",2023
-"Wood Duck","",2023
-"Northern Shoveler","",2023
-"Gadwall","",2023
-"Mallard","",2023
-"Greater/Lesser Scaup","",2023
-"Bufflehead","",2023
-"Common Merganser","",2023
-"Pied-billed Grebe","",2023
-"Anna's Hummingbird","",2023
-"American Coot","",2023
-"Glaucous-winged Gull","",2023
-"Double-crested Cormorant","",2023
-"Great Blue Heron","",2023
-"Downy Woodpecker","",2023
+"American Goldfinch","E",2022
+"Dark-eyed Junco","E",2022
+"White-crowned Sparrow","E",2022
+"Savannah Sparrow","E",2022
+"Song Sparrow","E",2022
+"Red-winged Blackbird","E",2022
+"Common Yellowthroat","E",2022
+"Yellow-rumped Warbler","E",2022
+"Canada Goose","E",2023
+"Wood Duck","E",2023
+"Northern Shoveler","E",2023
+"Gadwall","E",2023
+"Mallard","E",2023
+"Greater/Lesser Scaup","E",2023
+"Bufflehead","E",2023
+"Common Merganser","E",2023
+"Pied-billed Grebe","E",2023
+"Anna's Hummingbird","E",2023
+"American Coot","E",2023
+"Glaucous-winged Gull","E",2023
+"Double-crested Cormorant","E",2023
+"Great Blue Heron","E",2023
+"Downy Woodpecker","E",2023
 "Northern Flicker","L",2023
-"American Crow","",2023
-"Black-capped Chickadee","",2023
-"Tree Swallow","",2023
-"Violet-green Swallow","",2023
+"American Crow","E",2023
+"Black-capped Chickadee","E",2023
+"Tree Swallow","E",2023
+"Violet-green Swallow","E",2023
 "Marsh Wren","L",2023
 "Bewick's Wren","L",2023
-"American Robin","",2023
+"American Robin","E",2023
 "House Finch","L",2023
-"American Goldfinch","",2023
-"Golden-crowned Sparrow","",2023
-"Song Sparrow","",2023
-"Spotted Towhee","",2023
-"Red-winged Blackbird","",2023
+"American Goldfinch","E",2023
+"Golden-crowned Sparrow","E",2023
+"Song Sparrow","E",2023
+"Spotted Towhee","E",2023
+"Red-winged Blackbird","E",2023
 "Yellow-rumped Warbler","L",2023

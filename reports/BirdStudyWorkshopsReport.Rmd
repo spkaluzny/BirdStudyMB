@@ -50,3 +50,10 @@ ScoutsByYear |> mutate(Finished = BoysFinished + GirlsFinished) |>
 ```
 
 ## Birds Seen
+
+Combine birds seen each year into one data object.
+
+```{r combine_birds}
+source(here::here("scripts/combineBirdsSeen.R"))
+dim(birds_by_year)
+```
