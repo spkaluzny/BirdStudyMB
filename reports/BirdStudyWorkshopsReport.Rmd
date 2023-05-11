@@ -57,3 +57,15 @@ Combine birds seen each year into one data object.
 source(here::here("scripts/combineBirdsSeen.R"))
 dim(birds_by_year)
 ```
+
+```{r birds_vs_years, fig.width=8, fig.height=11}
+years <- sort(unique(birds_by_year$Year))
+ny <- seq.int(length(years))
+birds_by_year |> ggplot(aes(Year, Species, color=SeenBy)) +
+  geom_point()
+```
+
+```{r birds_vs_fyears, fig.width=8, fig.height=11}
+birds_by_year |> mutate(fYear = as.factor(Year)) |>
+  ggplot(aes(fYear, Species, color=SeenBy)) + geom_point()
+```
