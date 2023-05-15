@@ -28,7 +28,7 @@ Black-capped Chickadee,L
 Bushtit,E
 Bewick's Wren,L
 Marsh Wren,E
-Rub-crowned Kinglet,L
+Ruby-crowned Kinglet,L
 American Robin,E
 European Starling,E
 Yellow-rumped Warbler,E
