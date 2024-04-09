@@ -1,71 +1,235 @@
 ---
 title: "Bird Study Workshops Report"
 author: "Stephen Kaluzny"
-date: '2022-05-08'
-output:
-  html_document:
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+format:
+  html:
+    self-contained: true
     theme: cerulean
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = TRUE, fig.height=7, fig.width=8)
+library("flextable")
+library("viridis")
 library("dplyr")
 library("ggplot2")
 ```
 
-## Introduction
-
-## Data
-
-```{r combine_birdsseen, echo=FALSE}
+```{r combine_birdsseen, echo=FALSE, include=FALSE}
 source(here::here("scripts", "combineBirdsSeen.R"))
 ```
 
-```{r scouts_by_year}
+```{r scouts_by_year, echo=FALSE, include=FALSE}
 ScoutsByYear <- read.table(here::here("data", "scoutsByYear.txt"),
   sep=" ", header=TRUE)
 ScoutsByYear[["Year"]] <- lubridate::year(as.Date(ScoutsByYear[["ClassDate"]]))
-sapply(ScoutsByYear, class)
+ScoutsByYearAll <- ScoutsByYear
+ScoutsByYear <- ScoutsByYear |> filter(Year != 2020)
+ScoutsByYear[["fYear"]] <- as.factor(ScoutsByYear[["Year"]])
+ScoutsByYear[["fScouts"]] <- as.factor(ScoutsByYear[["Scouts"]])
+ScoutsByYear[["oScouts"]] <- ordered(ScoutsByYear[["Scouts"]])
+ScoutsByYear <- ScoutsByYear |>
+  mutate(Finished = BoysFinished + GirlsFinished) |>
+  mutate(PercentCompleted = Finished / Scouts * 100)
 ```
 
-Number of years: `r nrow(ScoutsByYear)`
+```{r compute_summary_stats, echo=FALSE}
+number_years <- nrow(ScoutsByYearAll)
+number_field_years <- nrow(ScoutsByYear)
+missing_years <-
+  setdiff(min(ScoutsByYearAll[["Year"]]):max(ScoutsByYearAll[["Year"]]),
+    ScoutsByYearAll[["Year"]])
+total_scouts <- sum(ScoutsByYear$Scouts)
+min_scouts <- min(ScoutsByYear$Scouts)
+max_scouts <- max(ScoutsByYear$Scouts)
+total_completed <- sum(ScoutsByYear$BoysFinished) +
+  sum(ScoutsByYear$GirlsFinished)
+mean_completed <- mean(ScoutsByYear$PercentCompleted)
+first_date <- min(dates_by_year)
+second_date <- sort(dates_by_year)[2]
+```
+
+## Introduction
+Mark Oberle and Stephen Kaluzny have been teaching a workshop for the
+Bird Study Merit Badge for Boy Scout Troop 186 in Seattle since 2004.
+
+The workshop is typically held on a Saturday in the Spring.
+The morning classroom session is usually held in the
+Burke Museum of Natural History and Culture
+at the University of Washington.
+The afternoon field trip session is held at
+the Union Bay Natural Area next to Lake Washington.
+
+After the workshop the scouts need to make and deploy a bird feeder or
+water bath to complete the merit badge requirements.
+Spreading peanut butter on a conifer cone, rolling it in bird seeds and
+hanging the cone in a tree is how the majority of the
+scouts fullfill this last requirement.
+Despite this easy last requirement,
+not all scouts who attend the workshop earn the merit badge.
+
+The workshop has been taught for `r number_years` years
+(no workshops were held in `r missing_years`).
+
+The first workshop was on `r format(first_date, format="%B %d, %Y")`.
+The next workshop was on `r format(second_date, format="%B %d, %Y")`.
+After `r lubridate::year(second_date)`,
+the workshops were always held in the Spring.
+
+A virtual workshop was held during the first year of the COVID19 pandemic
+(2020).
+No field trip session was held that year.
+Since this was not a complete workshop, the data from 2020
+are left out from the results below.
+
+Over the `r number_years` years of the workshop,
+`r total_scouts` scouts have attended,
+The maximum attendance for a workshop was `r max_scouts` scouts
+and there have been several years with only `r min_scouts` attending.
+
+Of the `r total_scouts` scouts who have attended,
+`r total_completed` have completed the merit badge
+(a `r round(total_completed / total_scouts * 100, 1)` percent completion rate).
+
+Starting in 2019, girls who had joined Scouts attended the workshop.
+So far `r sum(ScoutsByYear$Girls)` girls have attended.
 
 ## Scouts
 
-```{r scouts}
-ScoutsByYear |> ggplot(aes(x=Year, y=Scouts)) +
-  geom_bar(stat="identity") +
-  ggtitle("Scouts by Year")
+### Scouts attending the workshop.
+
+```{r scouts, echo=FALSE}
+ScoutsByYear |> ggplot(aes(x=fYear, y=Scouts)) +
+  geom_bar(stat="identity", width=0.3, fill="blue", col="blue") +
+  xlab("Year") +
+  ggtitle("Number of Scouts by Year") +
+  theme_light()
 ```
 
-Scouts completing the merit badge.
+### Scouts completing the merit badge.
+The mean yearly completion rate is
+`r round(mean_completed, 2)` percent.
 
-```{r completing}
-ScoutsByYear |> mutate(Finished = BoysFinished + GirlsFinished) |>
-  mutate(PercentComplete = Finished / Scouts * 100) |>
-  ggplot(aes(x=Year, y=PercentComplete)) +
-    geom_point() +
-    # geom_bar(stat="identity") +
-    ggtitle("Percent Completed by Year")
+```{r completing, echo=FALSE, eval=FALSE}
+ScoutsByYear |>
+  ggplot(aes(x=fYear, y=PercentCompleted, fill=fScouts)) +
+    # geom_point() +
+    geom_bar(stat="identity", width=0.5) +
+#    scale_fill_hue() +
+#     scale_fill_viridis(discrete = TRUE) +
+    labs(fill="Number of Scouts") +
+    xlab("Year") +
+    ylab("Percent Completed") +
+    ggtitle("Percent Completed the Merit Badge by Year") +
+    theme(legend.position = "top")
+```
+
+```{r completing2, echo=FALSE, eval=FALSE}
+ScoutsByYear |>
+  ggplot(aes(x=fYear, y=PercentCompleted, fill=Scouts)) +
+    # geom_point() +
+    geom_bar(stat="identity", width=0.5) +
+#    scale_fill_hue() +
+#    scale_fill_viridis(discrete = TRUE) +
+    scale_fill_viridis() +
+    labs(fill="Number of Scouts") +
+    xlab("Year") +
+    ylab("Percent Completed") +
+    ggtitle("Percent Completed the Merit Badge by Year") +
+    theme(legend.position = "top")
+```
+
+```{r completing3, echo=FALSE}
+ScoutsByYear |>
+  # ggplot(aes(x=fYear, y=PercentCompleted, fill=Scouts)) +
+  ggplot(aes(x=fYear, y=PercentCompleted)) +
+    geom_segment(aes(x=fYear, xend=fYear, y=0, yend=PercentCompleted),
+      color="skyblue") +
+    geom_point(color="blue", size=4, alpha=0.6) +
+    theme_light() +
+    theme(
+      panel.grid.major.y = element_blank(),
+      panel.border = element_blank(),
+      axis.ticks.y = element_blank()) +
+    # labs(fill="Number of Scouts") +
+    xlab("Year") +
+    ylab("Percent Completed") +
+    ggtitle("Percentage of Scouts Completing the Merit Badge by Year")
+```
+
+```{r completing4, echo=FALSE, eval=FALSE}
+ScoutsByYear |> mutate(Hundred=100) |>
+  ggplot(aes(x=fYear, y=Hundred)) +
+    theme_light() +
+    geom_bar(stat = "identity") +
+    geom_bar(aes(x=fYear, y=PercentCompleted),
+      col="skyblue", fill="skyblue", stat = "identity") +
+    facet_wrap(~ fYear, scale="free_x")
 ```
 
 ## Birds Seen
 
-Combine birds seen each year into one data object.
+One of the merit badge requirements is to create a notebook listing
+all the birds species seen on the field trip.
+The leaders have recorded all the species seen on all the field trips
+over the years.
 
-```{r combine_birds}
+```{r combine_birds, echo=FALSE}
 source(here::here("scripts/combineBirdsSeen.R"))
-dim(birds_by_year)
 ```
 
-```{r birds_vs_years, fig.width=8, fig.height=11}
-years <- sort(unique(birds_by_year$Year))
-ny <- seq.int(length(years))
-birds_by_year |> ggplot(aes(Year, Species, color=SeenBy)) +
-  geom_point()
+```{r order_species, echo=FALSE}
+ordered_species <- scan(here::here("data/ordered_species.txt"), what="", sep="\n")
+stopifnot(length(setdiff(birds_by_year[["Species"]], ordered_species)) == 0)
+```
+### Common Birds
+These common birds were seen almost every year on the field trip.
+Only birds seen by both scouts and the leaders are considered.
+
+```{r common_birds, echo=FALSE}
+n75 <- number_years * 0.75
+year_count <- birds_by_year |>
+  filter(SeenBy == "Everyone") |> pull(Species) |> table()
+common_birds <- sort(year_count[year_count >= n75])
+tdf <- data.frame(Species=c(names(common_birds)),
+    NumberOfYearsSeen=c(common_birds))
+# knitr::kable(tdf,
+#   row.names=FALSE, align=c("l", "l"),
+#   col.names=c("Species", "Number of Years Seen"))
+ft <- flextable(tdf, cwidth=c(3.0, 2.0))
+ft <- set_header_labels(ft,
+  "Species"="Species",
+  "NumberOfYearsSeen"="Number Of Years Seen")
+ft
 ```
 
-```{r birds_vs_fyears, fig.width=8, fig.height=11}
-birds_by_year |> mutate(fYear = as.factor(Year)) |>
-  ggplot(aes(fYear, Species, color=SeenBy)) + geom_point()
+### Rare Birds
+These rare bird species were seen on only one field trip.
+Again, only birds seen by both scouts and the leaders are considered.
+```{r rare_birds, echo=FALSE}
+rare_birds <- sort(year_count[year_count < 2])
+indx_rare <- match(names(rare_birds), birds_by_year[["Species"]])
+year_seen <- birds_by_year[indx_rare, "Year"]
+tdf <- data.frame(Species=names(rare_birds), YearSeen=as.character(year_seen))
+ft <- flextable(tdf, cwidth=c(3.0, 2.0))
+ft <- set_header_labels(ft,
+  "Species"="Species",
+  "YearSeen"="Year Seen")
+ft <- align(ft, j=2, align = "right", part = "all")
+ft
+```
+
+### All Birds
+All bird species seen by year on all the field trips.
+```{r birds_vs_years, fig.width=8, fig.height=9, echo=FALSE}
+birds_by_year |>
+  mutate(fYear = as.factor(Year), fSpecies = factor(Species, levels=rev(ordered_species))) |>
+  ggplot(aes(fYear, fSpecies, color=SeenBy)) +
+    geom_point() +
+    xlab("Year") +
+    ylab("Species") +
+    theme_light() +
+    theme(legend.position = "top")
+
 ```
